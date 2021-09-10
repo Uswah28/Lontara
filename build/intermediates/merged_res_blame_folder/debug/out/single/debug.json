@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\layout_recognition_item.xml.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\layout\\recognition_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable_header.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable_head.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\drawable\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable_atas.png.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\drawable\\atas.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\build\\intermediates\\res\\merged\\debug\\drawable_lontara.PNG.flat",
+        "source": "C:\\Users\\acer\\Documents\\AppIrna\\TFLClassify-main\\start\\src\\main\\res\\drawable\\lontara.PNG"
+    }
+]
